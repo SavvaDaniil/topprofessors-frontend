@@ -1,0 +1,14 @@
+
+@media (max-width: 768px){
+
+    .div-for-logout {
+        text-align: right;
+    }
+
+    .page.auditorium .chat .control-panel {
+        position: relative;
+    }
+    .page.auditorium .chat .control-panel input {
+        margin-bottom:8px;
+    }
+}
